@@ -13,5 +13,4 @@
 * First run the file ```server.py``` once and then run ```peer.py``` multiple times for multiple clients
 
 
-* Submitted by: Vaibhav Gupta (2020201040), Sayan Dey (2020201007), Navaneet Kumar Singh (2020201064), Prithwi Bagchi (2020801014)
   
